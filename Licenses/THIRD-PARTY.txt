@@ -1,0 +1,5 @@
+Antura
+    Great inspiration for the approach of post processing characters modifications in Unity Game Engine.
+    Copyright (c) 2017, TH Köln / Cologne Game Lab, Video Games Without Borders & Wixel Studios
+    https://github.com/vgwb/Antura
+    BSD 2-Clause License
